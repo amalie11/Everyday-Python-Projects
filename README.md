@@ -7,3 +7,9 @@
 | `Python Sudoku Solver` | https://github.com/amalie11/python-sudoku-solver |
 | `Python Password Generator` | https://github.com/amalie11/python-password-generator |
 | `Python Internet Connectivity` | https://github.com/amalie11/python-internet-connectivity |
+| `Make a Clock` | https://github.com/amalie11/make-a-clock |
+| `QR Code Scanner` | https://github.com/amalie11/qr-code |
+| `Screenshot Taker` | https://github.com/amalie11/screenshot-taker |
+| `Image Compressor` | https://github.com/amalie11/img-compressor |
+| `Cartoony Image` | https://github.com/amalie11/cartoony-image-maker |
+
