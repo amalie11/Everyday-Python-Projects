@@ -12,4 +12,8 @@
 | `Screenshot Taker` | https://github.com/amalie11/screenshot-taker |
 | `Image Compressor` | https://github.com/amalie11/img-compressor |
 | `Cartoony Image` | https://github.com/amalie11/cartoony-image-maker |
+| `Binary Search` | https://github.com/amalie11/binary-search |
+| `Mad Libs Game` |https://github.com/amalie11/madlibs |
+| `Countdown Timer` | https://github.com/amalie11/countdown-timer|
+
 
