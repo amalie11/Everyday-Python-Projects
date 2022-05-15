@@ -15,5 +15,7 @@
 | `Binary Search` | https://github.com/amalie11/binary-search |
 | `Mad Libs Game` |https://github.com/amalie11/madlibs |
 | `Countdown Timer` | https://github.com/amalie11/countdown-timer|
+| `Calculator` |https://github.com/amalie11/calculator|
+
 
 
