@@ -15,7 +15,7 @@
 | `Binary Search` | https://github.com/amalie11/binary-search |
 | `Mad Libs Game` |https://github.com/amalie11/madlibs |
 | `Countdown Timer` | https://github.com/amalie11/countdown-timer|
-| `Calculator` |https://github.com/amalie11/calculator|
-
+| `Python Text to Speech` |https://github.com/amalie11/text-to-speech|
+| `Python j.a.r.v.i.s` |https://github.com/amalie11/j.a.r.v.i.s|
 
 
